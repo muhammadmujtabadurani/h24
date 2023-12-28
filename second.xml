@@ -2,33 +2,33 @@
 
 
 <organization>
- <department>
-    <name></name>
-    <age></age>
-    <designation></designation>
-    <salary></salary>
+ <e:department xmlns:e="https://www.google.com/emploees">
+    <e:name>yazdan</e:name>
+    <e:age>70</e:age>
+    <e:designation>developer</e:designation>
+    <e:salary>2rupees</e:salary>
+ </e:department>
+
+ <department xmlns:s="https://www.google.com/staff">
+    <s:name>haseeb</s:name>
+    <s:age>101</s:age>
+    <s:designation>swiper</s:designation>
+    <s:salary>50 rupees</s:salary>
  </department>
 
- <department>
-    <name></name>
-    <age></age>
-    <designation></designation>
-    <salary></salary>
- </department>
-
- <department>
-    <name></name>
-    <age></age>
-    <designation></designation>
-    <salary></salary>
+ <department  xmlns:w="https://www.google.com/worker">
+    <w:name>talha</w:name>
+    <w:age>17</w:age>
+    <w:designation>CEO</w:designation>
+    <w:salary>20,00000</w:salary>
  </department>
 
 
- <department>
-    <name></name>
-    <age></age>
-    <designation></designation>
-    <salary></salary>
+ <department  xmlns:s="https://www.google.com/senior">
+    <s:name>mujtaba</s:name>
+    <s:age>16</s:age>
+    <s:designation>desighner</s:designation>
+    <s:salary>10,00000</s:salary>
  </department>
 
 </organization>
