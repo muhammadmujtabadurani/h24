@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<oraganization>
+    <e:department xmlns:e="https://www.google.com/emploees">
+    <e:name>peter parker</e:name>
+    <e:age>70</e:age>
+    <city>karachi</city>
+    
+   
+ </e:department>
+
+ <s:department xmlns:s="https://www.google.com/staff">
+ <s:name>batman</s:name>
+ <s:age>70</s:age>
+ <s:city>peshawar</s:city>
+ </s:department>
+
+ <w:department  xmlns:w="https://www.google.com/worker">
+    <w:name>talha</w:name>
+    <w:age>17</w:age>
+    <w:city>islamabad</w:city>
+ </w:department>
+</oraganization>
